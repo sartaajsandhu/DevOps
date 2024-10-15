@@ -1,3 +1,3 @@
 print("VVCE")
-print("Mysore")
+print("Mysuru")
 print("Hello")
